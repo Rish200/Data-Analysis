@@ -11,9 +11,6 @@ This project presents an **interactive Power BI dashboard** designed for an EdTe
 - **Instructor Insights** – Top 3 instructors by ratings per category and sub-category.
 - **Duration & Skill Variety** – Relationship between course length, skill coverage, and viewership.
 
-## Dashboard Images
-*(Add screenshots or GIF of your Power BI dashboard here)*
-
 ## Tech Stack
 - **Power BI** – Data modeling, DAX measures, and visualization.
 - **Excel** – Data cleaning and preprocessing.
