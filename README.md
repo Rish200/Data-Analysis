@@ -12,7 +12,7 @@ This project presents an **interactive Power BI dashboard** designed for an EdTe
 - **Duration & Skill Variety** – Relationship between course length, skill coverage, and viewership.
 
   ## dashboard
-  ![Dashboard Overview](images/Online_Courses_Analysis.pbix)
+  ![Dashboard Overview](images/Online_Course_pic.png)
 
 
 ## Tech Stack
